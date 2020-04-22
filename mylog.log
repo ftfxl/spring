@@ -1,0 +1,14 @@
+2020-04-22 17:05:49.208  INFO 10152 --- [restartedMain] cn.edu.scujcc.HelloworldApplication      : Starting HelloworldApplication on MSI with PID 10152 (E:\spring\project\spring\bin\main started by lyh in E:\spring\project\spring)
+2020-04-22 17:05:49.213  INFO 10152 --- [restartedMain] cn.edu.scujcc.HelloworldApplication      : No active profile set, falling back to default profiles: default
+2020-04-22 17:05:50.252  INFO 10152 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1006 ms
+2020-04-22 17:05:51.148  INFO 10152 --- [restartedMain] cn.edu.scujcc.HelloworldApplication      : Started HelloworldApplication in 2.266 seconds (JVM running for 3.978)
+2020-04-22 17:07:09.424  INFO 10152 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-04-22 17:07:09.436  INFO 10152 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 9 ms
+2020-04-22 17:07:09.459  INFO 10152 --- [http-nio-8080-exec-1] cn.edu.scujcc.api.ChannelController      : 正在查找所有频道信息...
+2020-04-22 17:10:21.041  INFO 10152 --- [restartedMain] cn.edu.scujcc.HelloworldApplication      : Starting HelloworldApplication on MSI with PID 10152 (E:\spring\project\spring\bin\main started by lyh in E:\spring\project\spring)
+2020-04-22 17:10:21.044  INFO 10152 --- [restartedMain] cn.edu.scujcc.HelloworldApplication      : No active profile set, falling back to default profiles: default
+2020-04-22 17:10:21.471  INFO 10152 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 416 ms
+2020-04-22 17:10:21.680  INFO 10152 --- [restartedMain] cn.edu.scujcc.HelloworldApplication      : Started HelloworldApplication in 0.685 seconds (JVM running for 274.511)
+2020-04-22 17:15:17.040  INFO 1040 --- [Test worker] c.edu.scujcc.HelloworldApplicationTests  : Starting HelloworldApplicationTests on MSI with PID 1040 (started by lyh in E:\spring\project\spring)
+2020-04-22 17:15:17.052  INFO 1040 --- [Test worker] c.edu.scujcc.HelloworldApplicationTests  : No active profile set, falling back to default profiles: default
+2020-04-22 17:15:24.587  INFO 1040 --- [Test worker] c.edu.scujcc.HelloworldApplicationTests  : Started HelloworldApplicationTests in 8.237 seconds (JVM running for 12.22)

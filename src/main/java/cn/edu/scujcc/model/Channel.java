@@ -17,8 +17,17 @@ public class Channel {
 	private String quality;
 	private String url;
 	private List<Comment> comments;
+	private String cover;
+		
 	
 	
+	
+	public String getCover() {
+		return cover;
+	}
+	public void setCover(String cover) {
+		this.cover = cover;
+	}
 	public List<Comment> getComments() {
 		return comments;
 	}
